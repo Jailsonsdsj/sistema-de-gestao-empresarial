@@ -10,12 +10,12 @@ Recentemente a Resolução que guia a criação do edital para seleção foi alt
 Dessa forma, faz-se necessário uma solução para sistematizar as regras da nova resolução e centralizar a gestão dos processos seletivos do STI e, futuramente, evoluir a solução para outros órgãos da UFPE.
 
 ### Equipe
-- Gilberto Medeiros
-- Jailson Júnior
-- José Gervásio
-- Maurício Alves
-- Thaís Máximo
-- Wytoria Rodrigues
+- Gilberto Medeiros (https://github.com/gilbertomoj)
+- Jailson Júnior (https://github.com/Jailsonsdsj)
+- José Gervásio (https://github.com/jg-cordeiro)
+- Maurício Alves (https://github.com/1-mauricio)
+- Thaís Máximo (https://github.com/thaisdk)
+- Wytoria Rodrigues (https://github.com/wytoriaa)
 
 
 
